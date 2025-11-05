@@ -134,5 +134,5 @@ void deleteStudent() {
     if (found)
         printf("Record deleted successfully!\n");
     else
-        printf("No record found for roll number %d\n", roll);
+        printf("No record found for roll number %d\n",roll);
 }
